@@ -22,7 +22,8 @@ The application has both server and client side code. You need to run both of th
 1. Create a .env file in the root of the repository and fill it with the values in the .env.example file.
 You can alternatively change the values.
 
-2.Run a single server instance.
+2. Run a single server instance.
+
 ```bash
 npm run runServer
 ```
